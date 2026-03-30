@@ -1,8 +1,6 @@
-# [Your Name] - Data Analysis Portfolio
+# [Tiago Akira Sasaki] - BI Analytics Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
-
-## About This Portfolio Template
+## About This Portfolio
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
@@ -14,8 +12,10 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### XYZ Supply Chain Company Dashboard
+In this Dashboard I was able show SQL, PowerBI and KPI management skills. First, I extracted for the company's database all necessary data using SQL queries. After that, I built Data Vizualiation with PowerBI to show relevant Inventory Management information.
+You can check the Dashboard (and readme for the SQL queries) below.
+
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
@@ -37,13 +37,13 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 
 Creating your own portfolio from this template is a simple, four-step process.
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+~~### 1. Create a New Repository from this Template
+Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.~~
 
-### 2. Name Your Repository for GitHub Pages
+~~### 2. Name Your Repository for GitHub Pages
 This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
 `your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+*(Replace `your-username` with your actual GitHub username.)*~~
 
 ### 3. Customize Your Portfolio
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
