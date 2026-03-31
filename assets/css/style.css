@@ -25,6 +25,15 @@
     box-sizing: border-box;
 }
 
+/* my alterations */
+.btn i {
+    font-size: 1rem;      /* keeps the PDF icon size */
+}
+
+.btn .cv-text {
+    font-size: 0.8rem;    /* makes only the text smaller */
+}
+
 html {
     scroll-behavior: smooth;
 }
