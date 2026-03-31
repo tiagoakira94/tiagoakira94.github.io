@@ -280,6 +280,10 @@ nav ul li a:hover::after {
     background: transparent;
     color: var(--primary-color);
     border: 2px solid var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .btn-secondary:hover {
